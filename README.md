@@ -6,6 +6,6 @@ You need to merge them into a new binary tree. The merge rule is that if two nod
 
 # Example 1:
 
-![image]() 
+![image](https://github.com/eric82714/LeetCode_617--Merge-Two-Binary-Trees/blob/master/image/example-1.PNG) 
 
 Note: The merging process must start from the root nodes of both trees.
